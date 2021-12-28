@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2021
+* <b>Rethinking the U-shape Structure for Salient Object Detection </b>. <br>
+Jiang-jiang Liu\#, <b>Zhiang Liu</b>\#, Pai Peng, Ming-Ming Cheng\*. <br>
+<i>IEEE Transactions on Image Processing (**TIP**)</i>, 2020. <br>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2020
+* <b>Pixel-level Non-local Image Smoothing with Objective Evaluation </b>. <br>
+Jun Xu\#, <b>Zhiang Liu</b>\#, Ying-kun Hou, Xian-Tong Zhen, Ling Shao, Ming-Ming Cheng\*. <br>
+<i>IEEE Transactions on Multimedia (**TMM**)</i>, 2020. <br>
