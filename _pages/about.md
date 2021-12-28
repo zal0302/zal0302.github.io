@@ -16,5 +16,17 @@ My research interests include Machine Learning and Computer Vision.
 Email: liuzhiang AT mail.nankai.edu.cn
 
 # Education
-* 2019 -- , M.Sc. in Computer Science, Nankai University.
-* 2014 -- 2019, B.Sc. in Electrical Engineering and Automation, Harbin Institute of Technology.
+* 2022 (expected), M.Sc. in Computer Science, Nankai University.
+* 2019, B.Sc. in Electrical Engineering and Automation, Harbin Institute of Technology.
+
+# Major Awards & Honors
+* 2021: First-Class Scholarship of Nankai University.
+* 2020: SK Hynix Artificial Intelligence Scholarship.
+* 2019: Outstanding Graduate in Harbin Institute of Technology.
+* 2019: Second-Class Scholarship of Harbin Institute of Technology.
+* 2018: Third-Class Scholarship of Harbin Institute of Technology.
+* 2016: UHV Scholarship (the highest national wide scholarship for students specialized in electrical engineering in China).
+* 2015: First-Class Scholarship of Harbin Institute of Technology.
+* 2015: Second Prize in the Chinese Mathematics Competitions (CMC).
+* 2015: Second-Class Scholarship of Harbin Institute of Technology.
+{: style="text-align: justify;"}
