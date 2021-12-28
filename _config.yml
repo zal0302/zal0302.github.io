@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhiang Liu (刘志昂)"
   avatar           : "liuzhiang.jpg"
-  bio              : "Master Student, College of Computer Science, Nankai University."
+  bio              : "Master Student, College of Computer Science, Nankai University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=IelzCRIAAAAJ&hl"
   email            : "liuzhiang@mail.nankai.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Zhiang-Liu"
   uri              :
   bitbucket        :
   codepen          :
