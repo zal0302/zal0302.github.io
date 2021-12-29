@@ -38,7 +38,7 @@ I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Inst
 
 **Wechat**: zzzzzzhiangLIU
 
-**Adress**: Tianjin, China .
+**Address**: Tianjin, China.
 
 ## Welcome
 
