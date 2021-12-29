@@ -26,7 +26,7 @@ I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Inst
 * 2019: Second-Class Scholarship of Harbin Institute of Technology.
 * 2018: Third-Class Scholarship of Harbin Institute of Technology.
 * 2017: Third-Class Scholarship of Harbin Institute of Technology.
-* 2016: UHV Scholarship (the highest national wide scholarship for students specialized in electrical engineering in China).
+* 2016: UHV Scholarship (the highest nationwide scholarship for students majoring in electrical engineering in China).
 * 2016: First-Class Scholarship of Harbin Institute of Technology.
 * 2015: Second Prize in the Chinese Mathematics Competitions (CMC).
 * 2015: Second-Class Scholarship of Harbin Institute of Technology.
