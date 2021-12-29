@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 I am currently a Master student at [Media Computing Lab](https://mmcheng.net/) of Nankai University, my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). 
-I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Institute of Technology in 2019, advised by Prof. [Gaolin Wang](http://homepage.hit.edu.cn/wanggaolin). 
-
-My research interests include Machine Learning and Computer Vision.
-
-Email: liuzhiang AT mail.nankai.edu.cn
+I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Institute of Technology in 2019, advised by Prof. [Gaolin Wang](http://homepage.hit.edu.cn/wanggaolin). My research interests include Machine Learning and Computer Vision.
 
 Education
 ======
@@ -36,4 +32,17 @@ Education
 * 2015: Second-Class Scholarship of Harbin Institute of Technology.
 {: style="text-align: justify;"}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
+# Contact
+
+**Email**: liuzhiang AT mail.nankai.edu.cn
+
+**Wechat**: zzzzzzhiangLIU
+
+**Adress**: Tianjin, China .
+
+## Welcome
+
+<div >
+Welcome to my homepage, you are the <span data-hk-page="current" display:inline> - </span>th visitor!
+<img align="center" width="200" src="{{ site.url }}/images/static/visited.gif" alt="" display:inline>
+</div>
