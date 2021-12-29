@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master student at [Media Computing Lab](https://mmcheng.net/) of Nankai University, my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). 
+I am currently a Master student at [Media Computing Lab](https://mmcheng.net/) of Nankai University and my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). 
 I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Institute of Technology in 2019, advised by Prof. [Gaolin Wang](http://homepage.hit.edu.cn/wanggaolin). My research interests include Machine Learning and Computer Vision.
 
 ## Education
