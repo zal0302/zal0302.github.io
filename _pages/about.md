@@ -44,5 +44,5 @@ Education
 
 <div >
 Welcome to my homepage, you are the <span data-hk-page="current" display:inline> - </span>th visitor!
-<img align="center" width="200" src="{{ site.url }}/images/static/visited.gif" alt="" display:inline>
+<img align="center" width="200" src="{{ site.url }}/images/visited.gif" alt="" display:inline>
 </div>
