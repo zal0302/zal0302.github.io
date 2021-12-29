@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master student at [Media Computing Lab](https://mmcheng.net/) of Nankai University and my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). 
+I am currently a Master student at [Media Computing Lab](https://mmcheng.net/) of Nankai University under the supervision of Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). 
 I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Institute of Technology in 2019, advised by Prof. [Gaolin Wang](http://homepage.hit.edu.cn/wanggaolin). My research interests include Machine Learning and Computer Vision.
 
 ## Education
@@ -18,6 +18,13 @@ I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Inst
   * GPA: 93.71/100, Ranking: 1/224, CET-4: 580, CET-6: 555, GRE: 326, TOEFL: 97
 * Visiting Student in University of Washington, Seattle, USA, Spring 2018
   * GPA: 3.96/4, Ranking: 1/60 in EE351 and 1/430 in AMATH301
+
+## Recent News
+
+* [10/2021] One paper was accpted by TIP 2021!
+* [11/2020] One paper was accpted by TMM 2020!
+* [09/2019] I have joined the Media Computing Lab under the supervision of Prof. Ming-Ming Cheng!
+* [06/2019] I graduated from Harbin Institute of Technology, and received my bachelor degree.
 
 ## Major Awards & Honors
 * 2021: First-Class Scholarship of Nankai University.
