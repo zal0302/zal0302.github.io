@@ -15,9 +15,18 @@ My research interests include Machine Learning and Computer Vision.
 
 Email: liuzhiang AT mail.nankai.edu.cn
 
-# Education
+Education
+======
+* M.S. in Computer Science, Nankai University, China, 2022 (expected)
+* B.S. in Electrical Engineering and Automation, Harbin Institute of Technology, China, 2019
+  * GPA: 93.71/100, Ranking: 1/224, CET-4: 580, CET-6: 555, GRE: 326, TOEFL: 97 -->
+<!-- * B.S. in Electrical Engineering and Automation, Harbin Institute of Technology, China, 2019
+  * GPA: 93.71/100 (_Top 1%_), CET-4: 580, CET-6: 555, GRE: 326, TOEFL: 97 -->
+* Visiting Student in University of Washington, Seattle, USA, Spring 2018
+  * GPA: 3.96/4, Ranking: 1/60 in EE351 and 1/430 in AMATH301
+<!-- # Education
 * 2022 (expected), M.Sc. in Computer Science, Nankai University.
-* 2019, B.Sc. in Electrical Engineering and Automation, Harbin Institute of Technology.
+* 2019, B.Sc. in Electrical Engineering and Automation, Harbin Institute of Technology. -->
 
 # Major Awards & Honors
 * 2021: First-Class Scholarship of Nankai University.
@@ -31,3 +40,5 @@ Email: liuzhiang AT mail.nankai.edu.cn
 * 2015: Second Prize in the Chinese Mathematics Competitions (CMC).
 * 2015: Second-Class Scholarship of Harbin Institute of Technology.
 {: style="text-align: justify;"}
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
