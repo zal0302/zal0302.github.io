@@ -19,12 +19,12 @@ I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Inst
 * Visiting Student in University of Washington, Seattle, USA, Spring 2018
   * GPA: 3.96/4, Ranking: 1/60 in EE351 and 1/430 in AMATH301
 
-## Recent News
+<!-- ## Recent News
 
 * [10/2021] One paper was accpted by TIP 2021!
 * [11/2020] One paper was accpted by TMM 2020!
 * [09/2019] I have joined the Media Computing Lab under the supervision of Prof. Ming-Ming Cheng!
-* [06/2019] I graduated from Harbin Institute of Technology, and received my bachelor degree.
+* [06/2019] I graduated from Harbin Institute of Technology, and received my bachelor degree. -->
 
 ## Major Awards & Honors
 * 2021: First-Class Scholarship of Nankai University.
