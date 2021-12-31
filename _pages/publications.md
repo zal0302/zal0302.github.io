@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+* <b>PoolNet+: Exploring the Potential of Pooling for Salient Object Detection </b>. <br>
+Jiang-jiang Liu, Qi-bin Hou, <b>Zhi-Ang Liu</b>, Ming-Ming Cheng\*. <br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, accepted. <br>
+
 ## 2021
 * <b>Rethinking the U-shape Structure for Salient Object Detection </b>. <br>
 Jiang-jiang Liu\#, <b>Zhi-Ang Liu</b>\#, Pai Peng, Ming-Ming Cheng\*. <br>
