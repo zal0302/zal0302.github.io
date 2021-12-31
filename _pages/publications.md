@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>Notes</b>: Joint first authors are indicated using \# and corresponding authors are indicated using \*.
 
 ## 2022
 * <b>PoolNet+: Exploring the Potential of Pooling for Salient Object Detection </b>. <br>
