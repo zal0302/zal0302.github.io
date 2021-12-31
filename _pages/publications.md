@@ -13,7 +13,7 @@ Jiang-jiang Liu, Qi-bin Hou, <b>Zhi-Ang Liu</b>, Ming-Ming Cheng\*. <br>
 ## 2021
 * <b>Rethinking the U-shape Structure for Salient Object Detection </b>. <br>
 Jiang-jiang Liu\#, <b>Zhi-Ang Liu</b>\#, Pai Peng, Ming-Ming Cheng\*. <br>
-<i>IEEE Transactions on Image Processing (**TIP**)</i>, 2020. <br>
+<i>IEEE Transactions on Image Processing (**TIP**)</i>, 2021. <br>
 
 ## 2020
 * <b>Pixel-level Non-local Image Smoothing with Objective Evaluation </b>. <br>
