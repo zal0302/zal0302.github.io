@@ -13,7 +13,7 @@ I received my B.Sc. degree in Electrical Engineering and Automation, Harbin Inst
 
 ## Education
 
-* M.S. in Computer Science, Nankai University, China, 2022 (expected)
+* M.S. in Computer Science, Nankai University, China, 2022
 * B.S. in Electrical Engineering and Automation, Harbin Institute of Technology, China, 2019
   * GPA: 93.71/100, Ranking: 1/224, CET-4: 580, CET-6: 555, GRE: 326, TOEFL: 97
 * Visiting Student in University of Washington, Seattle, USA, Spring 2018
